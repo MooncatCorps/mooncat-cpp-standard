@@ -17,4 +17,5 @@ This repository should be armed with:
 - A `.clang-format` file for autoformatting
 - A `.clang-tidy` file for code quality control
 - A `.gitignore` file for vcs exclusion
+- A `.mooncat.toml` file for project management
 
